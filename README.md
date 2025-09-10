@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+[DNS](https://github.com/naveenrai8/SystemDesign/blob/main/Concepts/DNS/dns.md)
 <!--
 **naveenrai8/naveenrai8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
