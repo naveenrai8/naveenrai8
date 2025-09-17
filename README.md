@@ -1,7 +1,13 @@
-## Hi there 👋
+# Hi there 👋
 
-1. [DNS](https://github.com/naveenrai8/SystemDesign/blob/main/Concepts/DNS/dns.md)
-2. [Kafka](https://github.com/naveenrai8/kafka-practicals)
+
+## Skills
+
+[DNS](https://github.com/naveenrai8/SystemDesign/blob/main/Concepts/DNS/dns.md), [Kafka](https://github.com/naveenrai8/kafka-practicals)
+
+## Paper I read
+
+## Blogs I read
 <!--
 **naveenrai8/naveenrai8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
