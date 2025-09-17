@@ -11,10 +11,10 @@
 ## AI / ML
 
 ## Paper I read
-1. [Google Zanzibar]
-2. [Google bigtable]
-3. [Google dapper]
-4. [Google Spanner]
+1. [Google Zanzibar](https://research.google/pubs/zanzibar-googles-consistent-global-authorization-system/)
+2. [Google bigtable](https://static.googleusercontent.com/media/research.google.com/en//archive/bigtable-osdi06.pdf)
+3. [Google dapper](https://research.google/pubs/dapper-a-large-scale-distributed-systems-tracing-infrastructure/)
+4. [Google Spanner](https://static.googleusercontent.com/media/research.google.com/en//archive/spanner-osdi2012.pdf)
 
 ## Blogs I read
 <!--
