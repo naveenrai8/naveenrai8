@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-[DNS](https://github.com/naveenrai8/SystemDesign/blob/main/Concepts/DNS/dns.md)
+1. [DNS](https://github.com/naveenrai8/SystemDesign/blob/main/Concepts/DNS/dns.md)
+2. [Kafka](https://github.com/naveenrai8/kafka-practicals)
 <!--
 **naveenrai8/naveenrai8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
