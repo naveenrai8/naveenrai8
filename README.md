@@ -4,6 +4,9 @@
 3. I strongly believe in doing lots of POCs instead of theoretical learnings.
 4. I've started gaining practical experience in AI/ML.
 
+## Java Spring boot projects
+1. [Spring boot byte size projects](https://github.com/naveenrai8/spring-boot-byte-size-project/tree/main)
+
 ## Skills
 
 [DNS](https://github.com/naveenrai8/SystemDesign/blob/main/Concepts/DNS/dns.md), [Kafka](https://github.com/naveenrai8/kafka-practicals)
