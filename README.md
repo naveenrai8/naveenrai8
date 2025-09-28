@@ -10,7 +10,7 @@
 
 ## Skills
 
-[DNS](https://github.com/naveenrai8/SystemDesign/blob/main/Concepts/DNS/dns.md), [Kafka](https://github.com/naveenrai8/kafka-practicals)
+[DNS](https://github.com/naveenrai8/SystemDesign/blob/main/Concepts/DNS/dns.md), [Kafka](https://github.com/naveenrai8/kafka-practicals), [Java Spring boot](https://github.com/naveenrai8/spring-boot-byte-size-project/tree/main), [Hibernate](https://github.com/naveenrai8/spring-boot-byte-size-project/tree/main), [JPA](https://github.com/naveenrai8/spring-boot-byte-size-project/tree/main), [Postgres](https://github.com/naveenrai8/spring-boot-byte-size-project/tree/main)
 
 ## AI / ML
 
