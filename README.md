@@ -3,6 +3,7 @@
 2. To deepen my expertise, I'm actively learning from industry leaders by reading their tech papers and blogs, as well as watching their tech videos.
 3. I strongly believe in doing lots of POCs instead of theoretical learnings.
 4. I've started gaining practical experience in AI/ML.
+5. Checkout my **[System design concepts](https://github.com/naveenrai8/SystemDesign)** 
 
 ## Java Spring boot projects
 1. [Spring boot byte size projects](https://github.com/naveenrai8/spring-boot-byte-size-project/tree/main)
