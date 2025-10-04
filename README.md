@@ -13,6 +13,7 @@
 [DNS](https://github.com/naveenrai8/SystemDesign/blob/main/Concepts/DNS/dns.md), [Kafka](https://github.com/naveenrai8/kafka-practicals), [Java Spring boot](https://github.com/naveenrai8/spring-boot-byte-size-project/tree/main), [Hibernate](https://github.com/naveenrai8/spring-boot-byte-size-project/tree/main), [JPA](https://github.com/naveenrai8/spring-boot-byte-size-project/tree/main), [Postgres](https://github.com/naveenrai8/spring-boot-byte-size-project/tree/main)
 
 ## AI / ML
+[Langchain](https://github.com/naveenrai8/ai-ml-projects/tree/main/Langchain-101), [Ollama](https://github.com/naveenrai8/ai-ml-projects/blob/main/Langchain-101/8a_Rag-basic.py), [RAG](https://github.com/naveenrai8/ai-ml-projects/blob/main/Langchain-101/8a_Rag-basic.py), [Embedding model](https://github.com/naveenrai8/ai-ml-projects/blob/main/Langchain-101/8a_Rag-basic.py), [MCP](https://github.com/naveenrai8/ai-ml-projects/blob/main/main.py)
 
 ## Paper I read
 1. [Google Zanzibar](https://research.google/pubs/zanzibar-googles-consistent-global-authorization-system/)
